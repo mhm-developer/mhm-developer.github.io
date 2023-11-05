@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: 'iran-yekan';
-    src: url('font/iran-yekan.woff') format('woff');
+    src: url('font/iran-yekan.ttf') format('truetype');
 }
 
 body {
