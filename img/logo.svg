@@ -1,1 +1,20 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="823.154" height="501.202" viewBox="0 0 823.154 501.202">
+  <defs>
+    <filter id="MHM-dev" x="0" y="192.702" width="785" height="267" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-119.5 -245.798)">
+    <g transform="matrix(1, 0, 0, 1, 119.5, 245.8)" filter="url(#MHM-dev)">
+      <text id="MHM-dev-2" data-name="MHM-dev" transform="translate(22.5 371.2)" fill="#fff" font-size="185" font-family="SD-Studio-Bold, SD-Studio" font-weight="700"><tspan x="0" y="0">MHM-dev</tspan></text>
+    </g>
+    <text id="front_end_back_end_developer" data-name="front end &amp; back end developer" transform="translate(155 719)" fill="#fff" font-size="48" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">front</tspan><tspan y="0" font-family="Mj_DinarTwoMedium, Mj_Dinar Two"> </tspan><tspan y="0">end</tspan><tspan y="0" font-family="Mj_DinarTwoMedium, Mj_Dinar Two"> </tspan><tspan y="0">&amp;</tspan><tspan y="0" font-family="Mj_DinarTwoMedium, Mj_Dinar Two"> </tspan><tspan y="0">back</tspan><tspan y="0" font-family="Mj_DinarTwoMedium, Mj_Dinar Two"> </tspan><tspan y="0">end</tspan><tspan y="0" font-family="Mj_DinarTwoMedium, Mj_Dinar Two"> </tspan><tspan y="0">developer</tspan></text>
+    <line id="Line_1" data-name="Line 1" y2="207.825" transform="translate(143.764 250.798)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_3" data-name="Line 3" y2="479.702" transform="translate(937.654 250.798)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_2" data-name="Line 2" x2="793.89" transform="translate(143.764 250.798)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+  </g>
+</svg>
